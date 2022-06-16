@@ -264,7 +264,7 @@ name = "Sourin Shelly"
 
 #! Lists= used to store multiple items in a single variable
 
-food = ["piza", "Sauce", "apple"]
+# food = ["piza", "Sauce", "apple"]
 # print(food)
 # print(food[1])
 
